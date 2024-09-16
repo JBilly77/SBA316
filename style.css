@@ -1,0 +1,12 @@
+/* Adding some styling */
+body {
+    font-family: Cambria;
+}
+#todolist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#todolist li {
+    margin-bottom: 10px;
+  }
